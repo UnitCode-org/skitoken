@@ -1,0 +1,10 @@
+{
+  "name": "UNIT SKI",
+  "symbol": "SKILAUNCH",
+  "description": "Unit Ski Launch Token",
+  "image": "https://raw.githubusercontent.com/UnitCode-org/skitoken/refs/heads/main/logo.svg?token=GHSAT0AAAAAACUKTPT4EQEZOGZM4TG3YSZSZ67F7WA",
+  "creator": {
+    "name": "Unit Network",
+    "site": "https://app.unit.network"
+  }
+}
